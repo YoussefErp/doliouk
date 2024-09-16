@@ -1,0 +1,54 @@
+# Copyright (C) 2024 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleMassManufacturingOrdersName'
+ModuleMassManufacturingOrdersName = MassManufacturingOrders
+# Module description 'ModuleMassManufacturingOrdersDesc'
+ModuleMassManufacturingOrdersDesc = MassManufacturingOrders description
+
+#
+# Admin page
+#
+MassManufacturingOrdersSetup = MassManufacturingOrders setup
+Settings = Settings
+MassManufacturingOrdersSetupPage = MassManufacturingOrders setup page
+MASSMANUFACTURINGORDERS_MYPARAM1 = My param 1
+MASSMANUFACTURINGORDERS_MYPARAM1Tooltip = My param 1 tooltip
+MASSMANUFACTURINGORDERS_MYPARAM2=My param 2
+MASSMANUFACTURINGORDERS_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+MassManufacturingOrdersAbout = About MassManufacturingOrders
+MassManufacturingOrdersAboutPage = MassManufacturingOrders about page
+
+#
+# Sample page
+#
+MassManufacturingOrdersArea = Home MassManufacturingOrders
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
